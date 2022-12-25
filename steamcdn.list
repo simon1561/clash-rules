@@ -39,3 +39,15 @@ DOMAIN-SUFFIX,steam.cdn.on.net
 DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
 DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
 DOMAIN-SUFFIX,steam.cdn.webra.ru
+
+
+
+# 后来添加的
+DOMAIN-SUFFIX,cache1-lax1.steamcontent.com
+DOMAIN-SUFFIX,cache2-lax1.steamcontent.com
+DOMAIN-SUFFIX,cache3-lax1.steamcontent.com
+DOMAIN-SUFFIX,cache4-lax1.steamcontent.com
+DOMAIN-SUFFIX,cache5-lax1.steamcontent.com
+DOMAIN-SUFFIX,cache6-lax1.steamcontent.com
+DOMAIN-SUFFIX,cache7-lax1.steamcontent.com
+DOMAIN-SUFFIX,cache8-lax1.steamcontent.com
